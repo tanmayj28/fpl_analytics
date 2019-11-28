@@ -1,0 +1,7 @@
+name: fpl
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.6
+- django=2.2
